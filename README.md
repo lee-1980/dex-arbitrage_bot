@@ -8,7 +8,7 @@ Note the code is provided for educational purposes, is unaudited and not fit for
 Build using the following commands:
 
 ```shell
-git clone https://github.com/lee-1980/DEX-Arbitrage.git
+git clone https://github.com/lee-1980/dex-arbitrage_bot.git
 cd DEX-Arbitrage
 mv .env-example.txt .env
 npm install
